@@ -22,6 +22,10 @@
     }
 
     td.image {
+        .list_image {
+            width: 100px;
+        }
+        
         display: none;
         @media (min-width: 30em) {
             display: block;
